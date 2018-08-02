@@ -1,0 +1,1 @@
+This is a basic social media app for blogging, currently limited to a image, title, description and date. In this app i did not give much emphasis on frontend (it could have looked a bit more attractive), basically brushed my backend skills. I used HTML, CSS and Bootstrap for basic frontend and Nodejs(with express framework), some APIs and mongoDB database for backend. 
